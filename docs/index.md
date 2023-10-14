@@ -193,6 +193,7 @@ https://developer.huawei.com/consumer/cn/doc/development/HMSCore-Guides/privacy-
 合作伙伴名称:友盟同欣（北京）科技有限公司使用目的:用于在移动设备上推送消息
 
 获取的权限/信息:设备标识信息、设备设置信息、应用使用信息、写入存储、获取手机通话状态、获取注册在这台设备上的手机号
+设备识别码：包含ICCID。
 
 官网链接: https://www.umeng.com/
 
@@ -200,7 +201,7 @@ https://developer.huawei.com/consumer/cn/doc/development/HMSCore-Guides/privacy-
 
 合作伙伴名称: 优三缔科技（上海）有限公司使用目的:用于在移动设备上推送消息
 
-获取的权限/信息:设备标识信息、设备设置信息、
+获取的权限/信息:设备标识信息、设备设置信息、设备识别码：包含IMEI、BSSID,SSID。
 
 官网链接: https://unity.cn/
 
@@ -392,7 +393,7 @@ e)当我们终止服务及运营时。
 
 3.设备:是指可用于访问或使用WCU CUBE 世界魔方联盟及服务的装置，例如平板电脑或智能手机。  
 
-4.唯一设备识别码:是指由设备制造商编入到设备中的一串字符，可用于以独有方式标识相应设备(如IMEI/android ID/IDFA/OpenUDID/GUID/SIM卡/IMSI信息等)。  
+4.唯一设备识别码:是指由设备制造商编入到设备中的一串字符，可用于以独有方式标识相应设备(如IMEI/android ID/IDFA/OpenUDID/GUID/SIM卡/IMSI/ICCID/BSSID/SSID信息等)。 
 
 5.IP地址:每台上网的设备都会指定一个编号，称为互联网协议（IP）地址。这些编号通常都是根据地理区域指定的。  
 
